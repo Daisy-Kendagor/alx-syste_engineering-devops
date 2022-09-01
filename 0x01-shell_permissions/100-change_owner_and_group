@@ -1,2 +1,2 @@
 #!bin/basH
-chown -R vincent [staff] .
+chown vincent:staff *
